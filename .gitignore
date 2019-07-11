@@ -2,3 +2,6 @@
 *.swp
 build
 dep-libs
+examples/Basic/build-spix_basics-Desktop_Qt_5_13_0_clang_64bit-Debug
+*.pro
+*.user
